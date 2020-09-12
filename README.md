@@ -8,7 +8,7 @@ I think it's better to have a dedicated repository for drawings, where everyone 
 
 Greetings from Simon Strandgaard, the developer of TriangleDraw.
 
-Feel free to write to me: `hello@triangledraw.com`
+Feel free to write to me: [hello@triangledraw.com](mailto:hello@triangledraw.com).
 
 
 ## Structure of this repository
