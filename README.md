@@ -1,4 +1,4 @@
-# TriangleDraw-Community
+# TriangleDraw-Gallery
 
 Show room for TriangleDraw artists.
 
