@@ -2,25 +2,30 @@
 
 Show room for TriangleDraw artists.
 
-I have posted my TriangleDraw drawings on Instagram and Reddit, and I no longer want to support social media platforms.
+App Store: [triangledraw.com](http://www.triangledraw.com/)
 
-I think it's better to have a dedicated repository for drawings, where everyone can submit their drawings.
+Discord: [triangledraw.com/discord](http://www.triangledraw.com/discord)
 
-Greetings from Simon Strandgaard, the developer of TriangleDraw.
+# Colin More
 
-Feel free to write to me: [hello@triangledraw.com](mailto:hello@triangledraw.com).
+ - [Instagram](https://www.instagram.com/col_inks/)
+ - [Gallery](http://www.triangledraw.com/blog/2019/07/15/colinmore)
 
+# Joao Ruivo
 
-## Structure of this repository
+ - [Gallery 1](http://www.triangledraw.com/blog/2014/04/23/jruivo)
+ - [Gallery 2](http://www.triangledraw.com/blog/2014/05/15/jruivo2)
+ - [Gallery 3](http://www.triangledraw.com/blog/2014/07/13/jruivo3)
+ - [Gallery 4](http://www.triangledraw.com/blog/2014/10/14/jruivo4)
 
-```
-neoneye/
-    glitch 1.jpg
-    glitch 2.jpg
-    hello.jpg
+# George Bordeanu
 
-name of author/
-    name of drawing 1.jpg
-    name of drawing 2.png
-```
+ - [Behance 1](https://www.behance.net/gallery/18319119/Triangle-Draw-5)
+ - [Behance 2](https://www.behance.net/gallery/20524873/Triangle-Draw-6)
+ - [Behance 3](https://www.behance.net/gallery/54127821/Isometric-Triangle-Drawing)
+ - [Gallery](http://www.triangledraw.com/blog/2014/06/28/gbordeanu)
+
+# Mina
+
+ - [Gallery](http://www.triangledraw.com/blog/2019/07/19/mina)
 
