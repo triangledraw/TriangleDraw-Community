@@ -8,6 +8,7 @@ Discord: [triangledraw.com/discord](http://www.triangledraw.com/discord)
 
 # Colin More
 
+ - [Official Impactful Music Video by 8 Bit Weapon](https://www.youtube.com/watch?v=DifDDtEEqsA) - Graphics by Colin More.
  - [Instagram](https://www.instagram.com/col_inks/)
  - [Gallery](http://www.triangledraw.com/blog/2019/07/15/colinmore)
 
