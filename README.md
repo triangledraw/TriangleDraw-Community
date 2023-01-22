@@ -12,6 +12,11 @@ Discord: [triangledraw.com/discord](http://www.triangledraw.com/discord)
  - [Instagram](https://www.instagram.com/col_inks/)
  - [Gallery](http://www.triangledraw.com/blog/2019/07/15/colinmore)
 
+# Nathan Cheng
+
+ - [Instagram](https://www.instagram.com/puremilkz/)
+ - [Gallery](http://www.triangledraw.com/blog/2023/01/22/puremilkz)
+
 # Joao Ruivo
 
  - [Gallery 1](http://www.triangledraw.com/blog/2014/04/23/jruivo)
